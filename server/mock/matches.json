@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "teamA": "Argentina",
+    "teamB": "Brasil",
+    "type": "FINAL"
+  },
+  {
+    "id": "2",
+    "teamA": "Argentina",
+    "teamB": "Germany",
+    "type": "SEMIFINALS"
+  },
+  {
+    "id": "3",
+    "teamA": "Netherlands",
+    "teamB": "Brasil",
+    "type": "SEMIFINALS"
+  },
+  {
+    "id": "4",
+    "teamA": "Argentina",
+    "teamB": "Nigeria",
+    "type": "QUARTERFINALS"
+  },
+  {
+    "id": "5",
+    "teamA": "Germany",
+    "teamB": "France",
+    "type": "QUARTERFINALS"
+  },
+  {
+    "id": "6",
+    "teamA": "Brasil",
+    "teamB": "Chile",
+    "type": "QUARTERFINALS"
+  },
+  {
+    "id": "7",
+    "teamA": "Netherlands",
+    "teamB": "Cameroon",
+    "type": "QUARTERFINALS"
+  }
+]
